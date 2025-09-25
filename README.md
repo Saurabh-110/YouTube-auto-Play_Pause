@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://placehold.co/600x200/2F3136/FFFFFF%3Ftext%3DYouTube%2BAuto%2BPlay/Pause%26font%3Dlato" alt="Project Banner">
+<!-- <img src="https://www.google.com/search?q=https://placehold.co/600x200/2F3136/FFFFFF%3Ftext%3DYouTube%2BAuto%2BPlay/Pause%26font%3Dlato" alt="Project Banner"> -->
 
 YouTube Auto Play/Pause
 <p>
